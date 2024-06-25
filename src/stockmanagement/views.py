@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
-from .models import *
-from .forms import StockCreateForm
+from .models import Stock
+from .forms import StockCreateForm 
 
 # Create your views here.
 
